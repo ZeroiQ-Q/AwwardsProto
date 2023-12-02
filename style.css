@@ -95,7 +95,7 @@ body {
 #video-container video {
   height: 100%;
   width: 100%;
-  object-fit: cover;
+  object-fit: scale-down;
 }
 #video-container #play {
   padding: 3vw 2vw;
